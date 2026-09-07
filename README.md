@@ -1,4 +1,4 @@
-### Hi 👋,
+### Hi 👋, je m'appel Josué Kasongo
 
 <!-- Bannière d'en-tête -->
 <p align="center">
