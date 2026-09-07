@@ -7,7 +7,7 @@
 
 <!-- Boutons / Badges Socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/Josué kasongo" target="_blank">
+  <a href="https://www.linkedin.com/in/Josué Kasongo" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kkjosue2007@gmail.com">
